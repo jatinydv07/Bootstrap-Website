@@ -1,0 +1,9 @@
+*{
+    font-family: "Inter",sans-serif;
+
+}
+.btnouter{
+    display: flex;
+    gap: 3rem;
+    justify-content:end;
+}
